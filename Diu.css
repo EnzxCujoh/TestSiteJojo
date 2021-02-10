@@ -1,0 +1,60 @@
+body {
+	background-image : url(./images/background.png);
+	background-size : cover;
+	font-family : Comic Sans MS, Comic Sans, cursive;
+	font-size:20;
+	
+}
+
+#partie_centrale {
+	float : right;
+	width : 75%;
+	margin-right: 6px;
+	margin-bottom: 6px;
+	border-style: double;
+    border-color: white;
+	text-align: justify;
+	padding: 10px;
+
+}
+
+#liens_vers_sites {
+	
+	position:fixed;
+	
+	float : left;
+	width : 20%;
+	height:100%;
+	border-style: double;
+    background-color: rgba(203,203,203,0.2)
+	
+}
+
+#lycee {
+	max-width: 80%;
+	height: auto;
+}
+
+explication {
+	color : #4E4E4E
+	
+}
+
+h1 {
+	text-align:center; 
+	color: rgb(255,255,255);
+	text-decoration : underline;
+	font-family : Brush Script Std, Brush Script MT, cursive;
+	font-weight : 100;
+
+}
+p{
+	color: #FFFFFF;
+	
+}
+
+a {
+	color:#FFFFFF;
+}
+li {
+  color: #FFFFFF;
